@@ -5,7 +5,7 @@ Datapack and Map for TAG game in Minecraft: Java Edition, version 1.21.4
 ### Essential Client (recommended)
 This mod is compatible with Essential Client (recommended for multiplayer convenience). Download the installer from *https://essential.gg/en* and follow the installation wizard prompts to add a **1.21.4** Essential instance to the default launcher (**any other version of Minecraft will not work**).
 ### Setting up the world
-Step 1: Extract the folder titled "TAG - Map" and add it to your saves folder (for default launcher, this will likely be under C:\Users\[your namespace]\AppData\Roaming\.minecraft\saves). Alternatively, extract the folder titled "TAG - Datapack". Create a new world with the "Allow Commands" setting enabled and add this folder into the datapacks section of the menu. 
+Step 1: Navigate to the latest release and download the folder titled "TAG - Map". Extract this folder and add it to your saves folder (for default launcher, this will likely be under C:\Users\[your namespace]\AppData\Roaming\.minecraft\saves). Alternatively, download and extract the folder titled "TAG - Datapack". Create a new world with the "Allow Commands" setting enabled and add this folder into the datapacks section of the menu. 
 Step 2: Once loaded into the world, type "/reload" to reload the datapack.
 Note: The game may prompt a warning when attempting to join the world due to the incorporation of experimental features in the map/datapack. Just select "Yes" to proceed.
 ### Invite friends
