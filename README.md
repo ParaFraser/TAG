@@ -36,37 +36,57 @@ Note: To exit tournament mode, the host must right click the sign outside the lo
 There are 21 maps to pick from, ranging from EASY to EXTREME difficulty. Some visuals of the maps have been included.
 ### EASY
 - **LEVELS** by ParaFraser: The very first map added to TAG, Levels consists of jump boost pads, levitation strips and slowness spots between 4 stark levels, easy for running around and avoiding the Tagger, but very few places to hide.
+
 ![Levels](https://cdn.modrinth.com/data/cached_images/768454aeda6935b365b19adede7790d71a2c2a16_0.webp)
+
 - **VILLAGE** by ParaFraser: A traditional plains village, with underground tunnels and roof access.
+
 ![Village](https://cdn.modrinth.com/data/cached_images/7d0b4deb20e8ec94384335c9a59ee9d0d5a2c14c.webp)
+
 - **MAZE** by Joe Speedrun, HPX374 and Maze: A hedge maze with water passages and a giant tower to oversee the map.
 - **TOWERS** by ParaFraser and GradientGray: A map filled with random towers, Mario-style teleporting pipes, and mega-jump pads.
+
 ![Towers](https://cdn.modrinth.com/data/cached_images/af840bff6223feec1ac9d0912134ac3e7fe9c695_0.webp)
+
 - **RACETRACK** by GradientGray and HPX374: A race course in which the Taggers spawn right behind the Runners, and the latter have to traverse and parkour their way through the track.
 - **WORKSITE** by HPX374: A construction site, featuring a towering crane, an excavation pit and building supplies scattered around the map.
 ### MEDIUM
 - **ISLANDS** by Fallen Allen Key: A multi-leveled, floating islands map, with water features, picturesque trees, and symbolic stone structures.
 - **BIRTHDAY** by ParaFraser: A cake themed map, with slime blocks, lots of parkour opportunities, and multiple tiers of candles
+
 ![Birthday](https://cdn.modrinth.com/data/cached_images/45af85b321e946dba911a44afefb0cce9e5b2e73_0.webp)
+
 - **CARNIVAL** by GradientGray and HPX374: A fairground, including a rollercoaster, market stands, and a giant ferris wheel.
 - **DESERT** by ParaFraser, GradientGray, Lyxier, Pizu, HPX374: A desert village-style map with underground passages, a temple and central gazebo to loop around.
+
 ![Desert](https://cdn.modrinth.com/data/cached_images/c7bd83b3d427499b135f69821677c8da0cf81bc4_0.webp)
+
 - **FOUNDRY** by Bizarctic: An industrial-style map with metal-working themes, including lava basins, pistons and underground passages.
 - **GRAVITY** by HPX374: What this parkour-themed map lacks in hidings spaces, it makes up for with water elevators and slime blocks to outmanoeveur and evade the Taggers.
+
 ![Gravity](https://cdn.modrinth.com/data/cached_images/17511f501a9593249da799f5b7116b0b57acfbc6_0.webp)
+
 ### HARD
 - **SHIPWRECK** by Redpill: A cliffside shipwreck, with a coral reef for hiding and several hidden mountain passages.
 - **SPONGEBOB** by Erikfzf: A replica of Bikini Bottom from Spongebob, featuring lily pad and slime block parkour, underground passages and various landmarks from the show.
 - **BASTION** by GradientGray and Redpill: A bastion remnant-inspired map, with two sides of convoluted blackstone, a connecting bridge at the top of the map and an open space at the bottom.
+
 ![Bastion](https://cdn.modrinth.com/data/cached_images/03a65d73518fdcdb0737a91f370e5d86684687c5_0.webp)
+
 - **GRAVEYARD** by GradientGray: 
+
 ![Graveyard](https://cdn.modrinth.com/data/cached_images/6a60888698ff6142cd25126f912b94fce95815f4_0.webp)
+
 - **TRAIN** by Redpill and GradientGray: 
 - **CITY** by GradientGray and Regionruns: A city square with skyscrapers and residential apartments, surrounding a central pond that leads into subterranean water passages.
+
 ![City](https://cdn.modrinth.com/data/cached_images/4f4c94c02662c679b60f0366deb3c3dbeeeaf3ae_0.webp)
+
 ### EXTREME
 - **RIDGE** by Redpill and GradientGray: A snowy taiga mountainside that hold ice caves and secret passages.
+
 ![Ridge](https://cdn.modrinth.com/data/cached_images/39950a87637b70d5cd7c407a325e2cd385dd2d02_0.webp)
+
 - **COURTYARD** by TotallyToast13: A map filled with secret passages and hiding spots between the library, brewery and storage buildings, and into the underground cave and forge level.
 - **JUNGLE** by Goldam and GradientGray: A giant map focussing a maze-like jungle temple, with different rooms and redstone contraptions designed to let you lose the Tagger through the different levels.
 # TROUBLESHOOTING
