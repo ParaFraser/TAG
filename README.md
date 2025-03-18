@@ -92,8 +92,10 @@ There are 21 maps to pick from, ranging from EASY to EXTREME difficulty. Some vi
 # TROUBLESHOOTING
 Type "/reload" to reload the datapack for troubleshooting, especially on loading into the world. This should completely reset the map and will force end any running match instantly. If the issue persists, ensure you have the correct version of Minecraft installed, then DM me on discord - @parafraser. Note: some maps contain "softlock" spots, which are spots that are intentionally impossible to escape.
 # CREDITS
-ParaFraser - Lead Datapack Developer and Map Maker
-Gradient Gray - Lead Map Maker
-HPX374, RedPill, Erikfzf - Major Contributions to Maps
-Bizarctic, Fallen Allen Key, Region, Pizu, HPX374, Lyxier, SweepJT, Goldam, TotallyToast13, and Joe Speedrun - Minor Contributions to Maps
-ParaFraser, Gradient Gray, Erikfzf, Region, HPX374, Cylo, Fennniq, Frigid, Buzzaboo, Bizarctic, WarioTime, and others - Beta Testers
+- Lead Map and Datapack Developer: ParaFraser
+- Lead Map Maker: GradientGray
+- Lead Beta Testers: ParaFraser, Gradient Gray, Erikfzf
+- Lead Tournament Organiser: Redpill
+- Major Contributions to maps: HPX374, RedPill, and Erikfzf
+- Minor Contributions to Maps: Bizarctic, Fallen Allen Key, Region, Pizu, HPX374, Lyxier, SweepJT, Goldam, TotallyToast13, and Joe Speedrun
+- Minor Beta Testers: KaaziTheCreeper, HPX374, Region, Cylo, Fennniq, Frigid, Buzzaboo, Bizarctic, WarioTime, and others.
