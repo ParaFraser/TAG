@@ -2,9 +2,9 @@
 ## Essential Client (recommended)
 This mod is compatible with Essential Client (recommended for up to 8 players). Download the [installer](https://essential.gg/en) and follow the prompts to add a 1.21.4 Essential instance to the default launcher (any other version of Minecraft will not work). You can also download the [Essential container mod](https://modrinth.com/mod/essential/versions?g=1.21.4) directly from Modrinth and add it to a **Java Edition 1.21.4 Fabric** instance.
 ## Setting up the world
-Navigate to the latest release of TAG and download the zip file titled "TAG - Map". Extract this folder and add it to your saves folder (for default launcher, this will likely be under _C:\Users[your namespace]\AppData\Roaming.minecraft\saves_).
+Navigate to the latest release of TAG and download the zip file titled "TAGvX.X_MAIN". Extract this folder and add it to your saves folder (for default launcher, this will likely be under _C:\Users[your namespace]\AppData\Roaming.minecraft\saves_).
 The game may prompt a warning when attempting to join the world due to the incorporation of experimental features in the map because of the included datapack. To proceed, just select "Yes" if its the first time loading the world, or "I know what I'm doing!" if you're rejoining an existing version of the world.
-Once loaded into the world, run the "/reload" command to reload the datapack.
+**Once loaded into the world, run the `/reload` command to reload the datapack.**
 ## Inviting friends to the world
 If using Essential Client, you can add other Minecraft accounts as friends in the social menu and invite them to your game through the Invite button in the game menu. This map also supports LAN connections and many other singleplayer world hosting methods such as Ngrok, however this is not a server file, so it will not work as one.
 ## Starting the game
@@ -30,8 +30,8 @@ The gamemode can be changed using the signs in the lobby. The options include:
 - **INFESTED**: Infested is a spin-off of the popular gamemode "Infected", in which players that are infected have to then infect other players. In Infested, Runners that are tagged become Taggers, and must try to tag the remaining runners before the time runs out. This gamemode works best with 1 Tagger, and the remaining players as Runners.
 - **SARDINES**: Sardines operates as the inverse of Infested, as it works best with only 1 Runner. Taggers that tag the Runner are convert into Runners themselves, and need to hide with the original Runner.
 ## Tournament mode
-A tournament mode was added to the map for the Minecraft Tag League (MTL) tournament. To start it, the host of the world must run the command "/tag @s add Host". This will allow them to right click the sign on the bedrock block outside the lobby (accessible through spectator mode), which will transform the lobby. Tournament mode settings are fixed, excluding the map, which can only be altered by the host. To start a match, the other players must distribute themselves into the Runner and Tagger chambers (or spectator chambers as desired). Each Runner will receive 2 points for every 15 seconds survived, and each Tagger receives 10 points for every tag. Round summaries are shown in chat at the end of every match, while aggregate points across rounds are shown on the sidebar. The scores can be reset by the host using the command "/function tag:/tournament/reset_scores".
-Note: To exit tournament mode, the host must right click the sign outside the lobby again and then run the command "/reload".
+A tournament mode was added to the map for the Minecraft Tag League (MTL) tournament. To start it, the host of the world must run the command `/trigger Host`. This will allow them to run the command `/trigger TournamentMode`, which will transform the lobby. Tournament mode settings are fixed, excluding the map, which can only be altered by the host. To start a match, the other players must distribute themselves into the Runner and Tagger chambers (or spectator chambers as desired). Each Runner will receive 2 points for every 15 seconds survived, and each Tagger receives 10 points for every tag. Round summaries are shown in chat at the end of every match, while aggregate points across rounds are shown on the sidebar. The scores can be reset by the host using the command `/trigger ResetScores`.
+Note: To exit tournament mode, the host can run the command `/trigger NormalMode` or simply `/reload` (the latter will reset all game settings as well).
 ## Maps
 There are 21 maps to pick from, ranging from EASY to EXTREME difficulty. Some visuals of the maps have been included.
 ### EASY
@@ -90,7 +90,7 @@ There are 21 maps to pick from, ranging from EASY to EXTREME difficulty. Some vi
 - **COURTYARD** by TotallyToast13: A map filled with secret passages and hiding spots between the library, brewery and storage buildings, and into the underground cave and forge level.
 - **JUNGLE** by Goldam and GradientGray: A giant map focussing a maze-like jungle temple, with different rooms and redstone contraptions designed to let you lose the Tagger through the different levels.
 # TROUBLESHOOTING
-Type "/reload" to reload the datapack for troubleshooting, especially on loading into the world. This should completely reset the map and will force end any running match instantly. If the issue persists, ensure you have the correct version of Minecraft installed, then DM me on discord - @parafraser. Note: some maps contain "softlock" spots, which are spots that are intentionally impossible to escape.
+Type `/reload` to reload the datapack for troubleshooting, especially on loading into the world. This should completely reset the map and will force end any running match instantly. If the issue persists, ensure you have the correct version of Minecraft installed, then DM me on discord - @parafraser. Note: some maps contain "softlock" spots, which are spots that are intentionally impossible to escape.
 # CREDITS
 - Lead Map and Datapack Developer: ParaFraser
 - Lead Map Maker: GradientGray
