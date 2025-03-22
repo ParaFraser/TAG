@@ -31,6 +31,7 @@ The gamemode can be changed using the signs in the lobby. The options include:
 - **SARDINES**: Sardines operates as the inverse of Infested, as it works best with only 1 Runner. Taggers that tag the Runner are convert into Runners themselves, and need to hide with the original Runner.
 ## Tournament mode
 A tournament mode was added to the map for the Minecraft Tag League (MTL) tournament. To start it, the host of the world must run the command `/trigger Host`. This will allow them to run the command `/trigger TournamentMode`, which will transform the lobby. Tournament mode settings are fixed, excluding the map, which can only be altered by the host. To start a match, the other players must distribute themselves into the Runner and Tagger chambers (or spectator chambers as desired). Each Runner will receive 2 points for every 15 seconds survived, and each Tagger receives 10 points for every tag. Round summaries are shown in chat at the end of every match, while aggregate points across rounds are shown on the sidebar. The scores can be reset by the host using the command `/trigger ResetScores`.
+
 Note: To exit tournament mode, the host can run the command `/trigger NormalMode` or simply `/reload` (the latter will reset all game settings as well).
 ## Maps
 There are 21 maps to pick from, ranging from EASY to EXTREME difficulty. Some visuals of the maps have been included.
