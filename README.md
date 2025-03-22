@@ -2,8 +2,10 @@
 ## Essential Client (recommended)
 This mod is compatible with Essential Client (recommended for up to 8 players). Download the [installer](https://essential.gg/en) and follow the prompts to add a 1.21.4 Essential instance to the default launcher (any other version of Minecraft will not work). You can also download the [Essential container mod](https://modrinth.com/mod/essential/versions?g=1.21.4) directly from Modrinth and add it to a **Java Edition 1.21.4 Fabric** instance.
 ## Setting up the world
-Navigate to the latest release of TAG and download the zip file titled "TAGvX.X_MAIN". Extract this folder and add it to your saves folder (for default launcher, this will likely be under _C:\Users[your namespace]\AppData\Roaming.minecraft\saves_).
+Navigate to the latest release of TAG and download the zip file titled "TAGvX.X_MAIN". Extract this folder and add it to your saves folder (for default launcher, this will likely be under `C:\Users[your namespace]\AppData\Roaming.minecraft\saves`).
+
 The game may prompt a warning when attempting to join the world due to the incorporation of experimental features in the map because of the included datapack. To proceed, just select "Yes" if its the first time loading the world, or "I know what I'm doing!" if you're rejoining an existing version of the world.
+
 **Once loaded into the world, run the `/reload` command to reload the datapack.**
 ## Inviting friends to the world
 If using Essential Client, you can add other Minecraft accounts as friends in the social menu and invite them to your game through the Invite button in the game menu. This map also supports LAN connections and many other singleplayer world hosting methods such as Ngrok, however this is not a server file, so it will not work as one.
@@ -91,7 +93,9 @@ There are 21 maps to pick from, ranging from EASY to EXTREME difficulty. Some vi
 - **COURTYARD** by TotallyToast13: A map filled with secret passages and hiding spots between the library, brewery and storage buildings, and into the underground cave and forge level.
 - **JUNGLE** by Goldam and GradientGray: A giant map focussing a maze-like jungle temple, with different rooms and redstone contraptions designed to let you lose the Tagger through the different levels.
 # TROUBLESHOOTING
-Type `/reload` to reload the datapack for troubleshooting, especially on loading into the world. This should completely reset the map and will force end any running match instantly. If the issue persists, ensure you have the correct version of Minecraft installed, then DM me on discord - @parafraser. Note: some maps contain "softlock" spots, which are spots that are intentionally impossible to escape.
+Type `/reload` to reload the datapack for troubleshooting, especially on loading into the world. This should completely reset the map and will force end any running match instantly. If the issue persists, ensure you have the correct version of Minecraft installed, then DM me on discord - @parafraser. 
+
+Note: some maps contain "softlock" spots, which are spots that are intentionally impossible to escape.
 # CREDITS
 - Lead Map and Datapack Developer: ParaFraser
 - Lead Map Maker: GradientGray
