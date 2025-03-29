@@ -46,7 +46,7 @@ There are 21 maps to pick from, ranging from EASY to EXTREME difficulty. Some vi
 
 ![Village](https://cdn.modrinth.com/data/cached_images/7d0b4deb20e8ec94384335c9a59ee9d0d5a2c14c.webp)
 
-- **MAZE** by Joe Speedrun, HPX374 and Maze: A hedge maze with water passages and a giant tower to oversee the map.
+- **MAZE** by Joe Speedrun, HPX374 and Goldam: A hedge maze with water passages and a giant tower to oversee the map.
 - **TOWERS** by ParaFraser and GradientGray: A map filled with random towers, Mario-style teleporting pipes, and mega-jump pads.
 
 ![Towers](https://cdn.modrinth.com/data/cached_images/af840bff6223feec1ac9d0912134ac3e7fe9c695_0.webp)
