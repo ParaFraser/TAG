@@ -75,5 +75,5 @@ Note: some maps contain "softlock" spots, which are spots that are intentionally
 - Lead Beta Tester: Erikfzf
 - Tournament Organiser: Redpill
 - Major Contributions to maps: HPX374, RedPill, Japonk86 and Erikfzf
-- Minor Contributions to Maps: Bizarctic, Fallen Allen Key, Region, Pizu, HPX374, Lyxier, SweepJT, Goldam, TotallyToast13, AutomattPL, KaaziTheCreeper, SammmyG, xSzymi__, SimmonsSprite, BfatcatB, and Joe Speedrun
+- Minor Contributions to Maps: Bizarctic, Fallen Allen Key, Region, Pizu, hpx, Lyxier, SweepJT, Goldam, TotallyToast13, AutomattPL, KaaziTheCreeper, SammmyG, xSzymi__, SimmonsSprite, BfatcatB, and Joe Speedrun
 - Minor Beta Testers: KaaziTheCreeper, HPX374, Region, Cylo, Fennniq, Frigid, Buzzaboo, Bizarctic, WarioTime, and others.
